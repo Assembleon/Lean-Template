@@ -30,7 +30,7 @@ I developed this project as part of my learning journey with [ELZERO WEB SCHOOL]
 This project was developed following the tutorials and guidance provided by [ELZERO WEB SCHOOL](https://youtu.be/_-eh8cwGGwg?si=q98kFvO68n6LTdHK).
 
 ## Setup and Usage
-1. Clone the repository: `git clone https://github.com/your-username/lean-web-template.git`
+1. Clone the repository: `git clone https://github.com/Assembleon/lean-web-template.git`
 2. Open the `index.html` file in your browser to view the template.
 3. Edit the HTML and CSS files to customize the template as per your needs.
 
