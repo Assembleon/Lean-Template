@@ -39,5 +39,3 @@ Feel free to fork this repository, make your changes, and submit a pull request.
 
 
 ---
-
-Feel free to customize the content as needed!
