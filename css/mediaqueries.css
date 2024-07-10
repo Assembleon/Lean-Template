@@ -1,0 +1,68 @@
+/* Responsive Styles */
+
+/* Mobile Phones */
+@media (max-width: 576px) {
+    .header .links {
+      display: none;
+    }
+    .header .icon {
+      display: block;
+    }
+    .landing h1 {
+      font-size: 2rem;
+    }
+    .landing p {
+      font-size: 1rem;
+    }
+    .features .container {
+      flex-direction: column;
+    }
+    .services .services-content {
+      flex-direction: column;
+    }
+    .portfolio .portfolio-content {
+      flex-direction: column;
+    }
+    .about .container {
+      flex-direction: column;
+    }
+  }
+  
+  /* Tablets */
+  @media (min-width: 577px) and (max-width: 768px) {
+    .features .container {
+      flex-direction: column;
+    }
+    .services .services-content {
+      flex-direction: column;
+    }
+    .portfolio .portfolio-content {
+      flex-direction: column;
+    }
+    .about .container {
+      flex-direction: column;
+    }
+  }
+  
+  /* Laptops and Desktops */
+  @media (min-width: 769px) {
+    .landing h1 {
+      font-size: 3rem;
+    }
+    .landing p {
+      font-size: 1.2rem;
+    }
+    .features .container {
+      flex-direction: row;
+    }
+    .services .services-content {
+      flex-direction: row;
+    }
+    .portfolio .portfolio-content {
+      flex-direction: row;
+    }
+    .about .container {
+      flex-direction: row;
+    }
+  }
+  
